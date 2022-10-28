@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Sandra
+          Learn React Sandra Sota
         </a>
       </header>
     </div>
